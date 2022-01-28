@@ -42,3 +42,4 @@ print(ieyasu.entry_fee())
 print(ken.info_csv())
 print(tom.info_csv())
 print(ieyasu.info_csv())
+0
